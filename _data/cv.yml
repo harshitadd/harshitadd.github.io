@@ -1,0 +1,46 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Harshita Diddee
+    - name: Date of Birth
+      value: 6th Dec 1999
+    - name: Languages
+      value: English, Hindi, French (intermediate)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: BTech
+      institution: Guru Gobind Singh Indraprastha University
+      year: 2017 - 2021
+      description:
+        - Major GPA - 9.5/10.0, CGPA - 9.46/10.0
+        - Graduated as the Best Outgoing Student for the Class of 2021
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: SCAI Centre Fellow, SCAI
+      institution: Microsoft Research India
+      year: 2021 - Present
+      description:
+        - deployable machine translation for low resource languages
+        - data quality estimation
+
+    - title: Visting Pre-Doc at JSALT'22, CLSP
+      institution: John Hopkins University, Baltimore, USA
+      year: 2022
+      description:
+        - speech for low resource languages
+      
+    - title: Intern
+      institution: AI4Bharat (IIT Madras)
+      year: 2022
+      description:
+        - machine translation
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Classical Dance (Odissi)
