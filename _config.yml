@@ -132,7 +132,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+news_scrollable: false # adds a vertical scroll bar if there are more than 3 news items
 news_limit: # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
@@ -218,8 +218,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: Jain
-  first_name: [Naman]
+  last_name: Diddee
+  first_name: [Harshita]
 
   style: apa
   locale: en
