@@ -6,7 +6,7 @@ subtitle: Predoctoral Fellow @ MSR, India  |  harshitadd (at) gmail.com
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: profile_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     <p>Vigyan, Lavelle Road</p>
