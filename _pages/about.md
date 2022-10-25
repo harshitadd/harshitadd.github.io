@@ -9,7 +9,7 @@ profile:
   image: profile_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p> Looking for PhD'23 in Low-Resource Language Modelling and Unsupervised Data Quality Estimation</p>
+    <p> Looking for PhD'23 in Low-Resource Language (Speech and Text) Modelling and Unsupervised Data Quality Estimation</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
