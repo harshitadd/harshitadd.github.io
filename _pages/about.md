@@ -14,7 +14,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-advisors: true # includes the set of researchers worked with
+advisors: false # includes the set of researchers worked with
 ---
 
 Hello!
