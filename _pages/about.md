@@ -7,13 +7,13 @@ subtitle: Predoctoral Fellow @ MSR, India  |  harshitadd (at) gmail.com
 profile:
   align: right
   image: profile_pic.jpg
-  image_cicular: true # crops the image to make it circular
+  image_cicular: false # crops the image to make it circular
   address: >
     <p> Looking for PhD'23 in Low-Resource Language (Speech and Text) Modelling and Unsupervised Data Quality Estimation</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 advisors: false # includes the set of researchers worked with
 ---
 
