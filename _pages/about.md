@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Predoctoral Fellow @ MSR, India  |  harshitadd (at) gmail.com
+subtitle: Predoctoral Fellow @ Microsoft Research India, India  |  harshitadd (at) gmail.com
 
 profile:
   align: right
