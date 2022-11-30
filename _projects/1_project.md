@@ -21,6 +21,6 @@ I contributed to designing the Path Planning Algorithim, building the bot and it
 
 **Resources**
 
-- [Video (Run at National Finals)](https://www.youtube.com/watch?v=zPuSNFMFWME) 
+- [Video](https://www.youtube.com/watch?v=zPuSNFMFWME) 
 - [Codebase](https://github.com/shivam-grover/Eyantra-Thirsty_Crow-Team_ID-972)
 
