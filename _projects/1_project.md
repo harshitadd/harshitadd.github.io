@@ -1,18 +1,20 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: VisionAir 
+description: 
+img: assets/img/eyrc.jpg
 importance: 1
 category: work
 ---
+Winner of eYRC 2018 Theme Thirsty Crow
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project included work in -
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+1.Path Planning Algorithm used : Modified version of Breadth first search Algorithm. Modification : Saving the predecessor nodes in order to backtrack to source node.
 
+Blender Animation : Specified within the final python file. Threading was used to run the path planning algorithm in background and the animation triggers in the foreground.Textures were overlayed separately on the blender objects to enhance the quality of the animation.Key Frame animation was used to order to overlay animated objects on the aruco markers.
+
+Bot Traversal : Interrupts were used to recieve the path (being sent by the python script as an list of characters). Each character specified a particular movement by the bot.For the ADC interfacing - A relative approach was followed rather than using a thresholding value for the white line sensor calliberation.
     ---
     layout: page
     title: project
