@@ -7,7 +7,8 @@ importance: 1
 category: work
 ---
 Advised by: Peer-Led 
-Line Following Robot for Honeycomb Traversal and Aruco Processing for identifying pebbles on map
+
+
 This project included work in -
 
     - Path Planning Algorithm used : Modified version of Breadth first search Algorithm. Modification : Saving the predecessor nodes in order to backtrack to source node.
