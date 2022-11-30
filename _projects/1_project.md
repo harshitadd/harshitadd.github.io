@@ -1,27 +1,30 @@
 ---
 layout: page
-title: VisionAir 
-description: 
+title: Thirsty Crow  
+description: Line Following Robot for Honeycomb Traversal
 img: assets/img/eyrc.jpg
 importance: 1
 category: work
 ---
 Winner of eYRC 2018 Theme Thirsty Crow
 
-This project included work in -
+- Team's Final here at National Finals: [Video](https://www.youtube.com/watch?v=zPuSNFMFWME)
+- Code base: [Github](https://github.com/shivam-grover/Eyantra-Thirsty_Crow-Team_ID-972) 
 
-1.Path Planning Algorithm used : Modified version of Breadth first search Algorithm. Modification : Saving the predecessor nodes in order to backtrack to source node.
-
-Blender Animation : Specified within the final python file. Threading was used to run the path planning algorithm in background and the animation triggers in the foreground.Textures were overlayed separately on the blender objects to enhance the quality of the animation.Key Frame animation was used to order to overlay animated objects on the aruco markers.
-
-Bot Traversal : Interrupts were used to recieve the path (being sent by the python script as an list of characters). Each character specified a particular movement by the bot.For the ADC interfacing - A relative approach was followed rather than using a thresholding value for the white line sensor calliberation.
-    ---
+Project components included: 
+```
+1.Path Planning Algorithm used : Modified version of Breadth first search Algorithm ( Modification : Saving the predecessor nodes in order to backtrack to source node)
+2. Blender Animation : Specified within the final python file. Threading was used to run the path planning algorithm in background and the animation triggers in the foreground.Textures were overlayed separately on the blender objects to enhance the quality of the animation.Key Frame animation was used to order to overlay animated objects on the aruco markers.
+3. Bot Traversal : Interrupts were used to recieve the path (being sent by the python script as an list of characters). Each character specified a particular movement by the bot.For the ADC interfacing - A relative approach was followed rather than using a thresholding value for the white line sensor calliberation.
+I contributed to the Path Planning Algorithm & The image processing for identification of Aruco Markers on the Honeycomb map. 
+```
+<!--     ---
     layout: page
     title: project
     description: a project with a background image
     img: /assets/img/12.jpg
-    ---
-
+    --- -->
+<!-- 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -68,15 +71,15 @@ Just wrap your images with `<div class="col-sm">` and place them inside `<div cl
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
 
-{% raw %}
+{% raw %} -->
 ```html
-<div class="row justify-content-sm-center">
+<!-- <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
 ```
-{% endraw %}
+<!-- {% endraw %} -->
