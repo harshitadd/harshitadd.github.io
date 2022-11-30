@@ -2,11 +2,11 @@
 layout: page
 title: VisionAir 
 description: 1st Runner’s Up at the Celestini Prize India 2019
-img: assets/img/visionair.jpg
+img: assets/img/visionair.png
 importance: 1
 category: work
 ---
-Advised By: Dr. Aakanksha Chowdhery 
+Advised By: [Dr. Aakanksha Chowdhery](http://www.achowdhery.com/)
 
 A privacy-preserving smartphone application that can be used to estimate the Air Quality Index from an image that the user takes. The application uses On-Device training to ensure complete isolation of the user’s private data and also uses federated learning to diversify the response of the global deep learning model iteratively.
 
