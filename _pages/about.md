@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Predoctoral Fellow @ Microsoft Research India, India  |  harshitadd (at) gmail.com
+subtitle: [Predoctoral Fellow @ Microsoft Research India, India](https://www.microsoft.com/en-us/research/people/t-hdiddee/)  |  harshitadd (at) gmail.com
 
 profile:
   align: right
