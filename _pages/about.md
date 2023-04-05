@@ -8,8 +8,8 @@ profile:
   align: right
   image: profile_pic.jpg
   image_cicular: false # crops the image to make it circular
-  address: >
-    <p> </p>
+  address: 
+    <p> Incoming LTI PhD @ Carnegie Mellon University </p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
