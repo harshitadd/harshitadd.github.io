@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming PhD @ Carnegie Mellon University | hdiddee (at) andrew.cmu.edu
+subtitle: PhD @ Carnegie Mellon University | hdiddee (at) andrew.cmu.edu
 
 profile:
   align: right
