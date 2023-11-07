@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /advice/
+permalink: /Advice/
 title: Advice
 description: Very few tips on Graduate School Applications (PhD)
 nav: true
