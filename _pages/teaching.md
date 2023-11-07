@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /advice/
-title: advice
+title: Advice
 description: Very few tips on Graduate School Applications (PhD)
 nav: true
 nav_order: 5
@@ -12,7 +12,9 @@ Here are some very terse tips that _might_ help a wandering PhD applicant.
 ## Tip 1: Deduplication is Important
 
 Try not to duplicate information in your CV, SOP, and Application Q&As. Motivate the reasons for working on different problems, **your specific** contributions and how they align with what you would like to do in the Future in your Statement of Purpose. Let the CV do the enlistment of all the other things you’ve done to prepare for Graduate School. A very extreme situation to think of would be something like:
+
 $$Content(SOP)=\overline{Content(CV)}$$
+
 with the exception of listing out your experiences and projects (while specifying the suprisal elements: Code-Bases, Websites, Accompanying Talks and/or Blogs clearly in your CV and providing rationales in your SOP). 
 
 ## Tip 2: Balance is What You (Might) Need 
