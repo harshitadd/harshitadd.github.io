@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-Here are some very terse tips that _might_ help a wandering PhD applicant.
+Here are some very terse tips that _might_ help a wandering PhD applicant. Please bear in mind that I am a very new, unimportant person in this field who is simply documenting her experience in this space. 
 
 ## Tip 1: Deduplication is Important
 
@@ -15,7 +15,7 @@ Try not to duplicate information in your CV, SOP, and Application Q&As. Motivate
 
 $$Content(SOP)=\overline{Content(CV)}$$
 
-with the exception of listing out your experiences and projects (while specifying the suprisal elements: Code-Bases, Websites, Accompanying Talks and/or Blogs clearly in your CV and providing rationales in your SOP). 
+with the exception of listing out your experiences and projects (while specifying the suprisal elements: Code-Bases, Websites, Accompanying Talks and/or Blogs clearly in your CV and providing rationales in your SOP). The listed equation shouldn't be the goal (it definitely wasn't for mine) but it is a good safegaurd to check for unnecessary redundancy between the information in your CV and SOP. 
 
 ## Tip 2: Balance is What You (Might) Need 
 > "To be Specific, or not to be Specific: that is the Gamble"  
@@ -26,6 +26,6 @@ How generalizable future work directions (in your SOP) must be to maximize your 
 
 ## Tip 3: Dropout is Inevitable, Believe in its Regularizing Benefits
 
-As a PhD applicant, you might try and incorporate all the advice you gain on maximizing your chances of selection. Some misses in applying this overwhelming amount of advice is inevitable - and I, a very **un**important person simply sharing her personal experience, _ahem_, believe that this unintended dropout will greatly contribute to how unique and adapted the application is to you (not a direct summation of recipes that others have followed). Do not give up and just brave through the cycle. The results may surprise you! 
+As a PhD applicant, you might try and incorporate all the advice you gain on maximizing your chances of selection. Some misses in applying this overwhelming amount of advice is inevitable. There will also be other factors that might attenuate your applications effects for unseen reasons (Labs not hiring, Faculty Switches, etc). I faced some of these and this unintended _dropout_ was initially hard to reconcile with. In hindsight though, it contributed greatly to the uniqueness of my application (Accidental Personalization, if you will). For instance, I read work in diverse domains that did not strictly align with my research goals nearly all through my application cycle which greatly broadened my topical horizon in the field. This greatly eased my PhD Interviewing process as I had collected significant evidence to support my choice to pursue certain questions. 
 
 Good Luck and May the Odds be Ever in Your Favor! 
