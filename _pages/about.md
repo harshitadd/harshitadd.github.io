@@ -6,7 +6,7 @@ subtitle: PhD @ Carnegie Mellon University | hdiddee (at) andrew.cmu.edu
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: updated_profile_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: 5509 Gates Hillman Center, Carnegie Mellon University 
     <p> LTI PhD @ Carnegie Mellon University </p>
