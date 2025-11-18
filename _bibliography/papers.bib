@@ -1,16 +1,53 @@
 ---
 ---
 
-@misc{diddee2024chasingrandominstructionselection,
-      title={Chasing Random: Instruction Selection Strategies Fail to Generalize}, 
-      author={Harshita Diddee and Daphne Ippolito},
-      year={2024},
-      eprint={2410.15225},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      pdf={https://arxiv.org/abs/2410.15225}, 
-      code="https://github.com/ippolito-cmu/ChasingRandom",
-      booktitle = "To Appear in NAACL 2025 (Findings)",
+@inproceedings{
+zhang2025noveltybench,
+title={NoveltyBench: Evaluating Creativity and Diversity in Language Models},
+author={Yiming Zhang and Harshita Diddee and Susan Holm and Hanchen Liu and Xinyue Liu and Vinay Samuel and Barry Wang and Daphne Ippolito},
+booktitle={Second Conference on Language Modeling},
+year={2025},
+url={https://openreview.net/forum?id=XZm1ekzERf}
+}
+
+@inproceedings{diddee-ippolito-2025-chasing,
+    title = "Chasing Random: Instruction Selection Strategies Fail to Generalize",
+    author = "Diddee, Harshita  and
+      Ippolito, Daphne",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-naacl.103/",
+    doi = "10.18653/v1/2025.findings-naacl.103",
+    pages = "1943--1957",
+    ISBN = "979-8-89176-195-7"
+}
+
+@inproceedings{samuel-etal-2025-cie,
+    title = "{CIE}: Controlling Language Model Text Generations Using Continuous Signals",
+    author = "Samuel, Vinay  and
+      Diddee, Harshita  and
+      Zhang, Yiming  and
+      Ippolito, Daphne",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.189/",
+    doi = "10.18653/v1/2025.emnlp-main.189",
+    pages = "3815--3825",
+    ISBN = "979-8-89176-332-6",
+    abstract = "Aligning language models (LMs) with user intent is becoming increasingly relevant to enhance user experience.This calls for designing methods that can allow users to control the properties of the language that LMs generate, for example, controlling the length of the generation or the complexity of the language that gets chosen.Most existing work attempts to integrate users' control by conditioning LM generations on natural language prompts or discrete control signals, which are often brittle and hard to scale.In this work, we are interested in continuous control signals, ones that exist along a spectrum that can{'}t easily be captured in a natural language prompt or via existing techniques in conditional generation.Through a case study in controlling the precise response-length of generations, we demonstrate how an LM can be finetuned to expect a control vector that is interpolated between a ``low'' and a ``high'' token embedding.Our method more reliably exerts response-length control than in-context learning methods or fine-tuning methods that represent the control signal as a discrete signal."
 }
 
 @inproceedings{liu-etal-2024-customizing-large,
